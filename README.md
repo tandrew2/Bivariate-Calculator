@@ -1,1 +1,1 @@
-# Bivariate-Calculator
+# Bivariate Normal Calculator Project
